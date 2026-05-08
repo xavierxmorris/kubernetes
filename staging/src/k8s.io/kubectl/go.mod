@@ -9,7 +9,7 @@ require (
 	github.com/chai2010/gettext-go v0.0.0-20160711120539-c6fed771bfd5
 	github.com/davecgh/go-spew v1.1.1
 	github.com/daviddengcn/go-colortext v0.0.0-20160507010035-511bcaf42ccd
-	github.com/docker/distribution v2.7.1+incompatible
+	github.com/docker/distribution v2.8.2+incompatible
 	github.com/evanphx/json-patch v4.2.0+incompatible
 	github.com/exponent-io/jsonpath v0.0.0-20151013193312-d6023ce2651d
 	github.com/fatih/camelcase v1.0.0
@@ -26,8 +26,8 @@ require (
 	github.com/moby/term v0.0.0-20200312100748-672ec06f55cd
 	github.com/onsi/ginkgo v1.11.0
 	github.com/onsi/gomega v1.7.0
-	github.com/opencontainers/go-digest v1.0.0-rc1 // indirect
-	github.com/russross/blackfriday v1.5.2
+	github.com/opencontainers/go-digest v1.0.0 // indirect
+	github.com/russross/blackfriday v1.6.0
 	github.com/spf13/cobra v0.0.5
 	github.com/spf13/pflag v1.0.5
 	github.com/stretchr/testify v1.4.0
